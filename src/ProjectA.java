@@ -9,7 +9,7 @@ public class ProjectA {
         final int OVERTIME = 40;
         final double OVERTIMEPAYMENT = 1.5;
         
-        
+        employeName = "kasper";
 
     }
 }
